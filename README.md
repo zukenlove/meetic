@@ -1,1 +1,1 @@
-meetic an mobile app that connect people
+meetic a mobile app that connect people
